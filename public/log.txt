@@ -1,0 +1,17 @@
+Express server started on port: 80
+user landed at page
+https://ion.tjhsst.edu/api/profile?format=json&access_token=OLvGqXOTCO5MgfgV7QEFNNezcpsGdH
+https://ion.tjhsst.edu/api/profile?format=json&access_token=WS2S5O0YFmRjPderxb8TBZA56jAzaA
+user landed at page
+user landed at page
+https://ion.tjhsst.edu/api/profile?format=json&access_token=FuHl5XJD1ZQACrKNUjMrd5i8SrjCnd
+https://ion.tjhsst.edu/api/profile?format=json&access_token=FuHl5XJD1ZQACrKNUjMrd5i8SrjCnd
+https://ion.tjhsst.edu/api/profile?format=json&access_token=YO5nGABd3NGfgUoR8xThqD3FLYtrHn
+https://ion.tjhsst.edu/api/profile?format=json&access_token=YO5nGABd3NGfgUoR8xThqD3FLYtrHn
+https://ion.tjhsst.edu/api/profile?format=json&access_token=YO5nGABd3NGfgUoR8xThqD3FLYtrHn
+https://ion.tjhsst.edu/api/profile?format=json&access_token=YO5nGABd3NGfgUoR8xThqD3FLYtrHn
+https://ion.tjhsst.edu/api/profile?format=json&access_token=YO5nGABd3NGfgUoR8xThqD3FLYtrHn
+https://ion.tjhsst.edu/api/profile?format=json&access_token=85lV4fv9fW9IV9JeOgi0BR322yMwqt
+user landed at page
+user landed at page
+user landed at page

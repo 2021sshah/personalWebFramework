@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+    
+    <body>
+        <h3>Astronomy Picture of the Day from NASA</h3>
+        <ul><li>
+            Date: {{date}}
+        </li><li>
+            Title: {{title}}
+        </li><li>
+            By: {{copyright}}
+        </li><li>
+            What: {{explanation}}
+        </li></ul>
+        
+        <img src={{url}} width=320 height=240></img>
+        
+        <ul><li>
+            <a href='https://apod.nasa.gov/apod/lib/about_apod.html'>link</a> (external)
+        </li><li>
+            Mt Cleveland was in June, on <b>2006-06-07</b>
+        </li></ul>
+        <form action="/apod/" method="GET">
+		    <label>Change date:</label>
+		    <input type="date" name="date" id="date" value={{date}} >
+	        <button>Go to new date</button>
+        </form>
+        
+        <br />
+        <a href="/">home</a>
+    </body>
+</html>
