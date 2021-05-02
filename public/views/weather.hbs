@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>
+        <h1>Weather Forecast</h1>
+        <h3>Location : {{lat}}, {{long}}</h3>
+        <h5>Today's date : {{date}}</h5>
+        <table border="1" cellpadding="15">
+        <tr>
+            <td><b>Time</b></td>
+            <td><b>Temp</b></td>
+            <td><b>Wind</b></td>
+            <td><b>Sky</b></td>
+        </tr>
+        {{#each forecastList}}
+            <tr>
+                <td>{{this.startHour}}</td>
+                <td>{{this.temperature}}&#730;{{this.temperatureUnit}}</td>
+                <td>{{this.windDirection}} at {{this.windSpeed}}</td>
+                <td><img src={{this.icon}}></img> {{this.shortForecast}}</td>
+            </tr>
+        {{/each}}
+        </table>
+        <br />
+        <a href="/">home</a>
+    </body>
+</html>
